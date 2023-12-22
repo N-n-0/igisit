@@ -1,0 +1,8 @@
+Mounting_to_the_right_1
+=>nrel_main_idtf:[Мантажная ўправа 1](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8747349];;
+    -> rrel_latitude: [52.4328088];;
+    <- WGS84;;
+*);
+<-concept_station;;

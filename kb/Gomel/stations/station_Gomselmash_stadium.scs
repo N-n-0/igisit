@@ -1,0 +1,8 @@
+Gomselmash_stadium
+=>nrel_main_idtf:[Стадыён Гомсельмаш](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9659017];;
+    -> rrel_latitude: [52.4509002];;
+    <- WGS84;;
+*);
+<-concept_station;;

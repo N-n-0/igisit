@@ -1,0 +1,8 @@
+Professional_Lyceum_of_Builders
+=>nrel_main_idtf:[Прафесійны ліцэй будаўнікоў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0009361];;
+    -> rrel_latitude: [52.4610185];;
+    <- WGS84;;
+*);
+<-concept_station;;

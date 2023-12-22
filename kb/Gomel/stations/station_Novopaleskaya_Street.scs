@@ -1,0 +1,8 @@
+Novopaleskaya_Street
+=>nrel_main_idtf:[Вуліца Навапалеская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9984125];;
+    -> rrel_latitude: [52.4405342];;
+    <- WGS84;;
+*);
+<-concept_station;;

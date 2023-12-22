@@ -1,0 +1,8 @@
+Kindergarten_11
+=>nrel_main_idtf:[Дзіцячы сад 11](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0391724];;
+    -> rrel_latitude: [52.4649302];;
+    <- WGS84;;
+*);
+<-concept_station;;

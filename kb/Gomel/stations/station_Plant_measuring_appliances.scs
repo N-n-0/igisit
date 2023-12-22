@@ -1,0 +1,8 @@
+Plant_measuring_appliances
+=>nrel_main_idtf:[Завод вымяральных прыбораў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0026549];;
+    -> rrel_latitude: [52.4190103];;
+    <- WGS84;;
+*);
+<-concept_station;;

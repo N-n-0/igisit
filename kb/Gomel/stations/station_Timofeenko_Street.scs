@@ -1,0 +1,8 @@
+Timofeenko_Street
+=>nrel_main_idtf:[Вуліца Цімафеенкі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9930386];;
+    -> rrel_latitude: [52.4543136];;
+    <- WGS84;;
+*);
+<-concept_station;;

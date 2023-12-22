@@ -1,0 +1,8 @@
+Transportation_shop
+=>nrel_main_idtf:[Транспартны цэх](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8796401];;
+    -> rrel_latitude: [52.4317545];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Plant_Crystal
+=>nrel_main_idtf:[Завод Крышталь](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0305055];;
+    -> rrel_latitude: [52.3582235];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Plant_plumbing
+=>nrel_main_idtf:[Завод сантэхнарыхтовак](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0297569];;
+    -> rrel_latitude: [52.3678301];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Medical_College
+=>nrel_main_idtf:[Медыцынскі каледж](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0075005];;
+    -> rrel_latitude: [52.4285477];;
+    <- WGS84;;
+*);
+<-concept_station;;

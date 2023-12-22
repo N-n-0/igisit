@@ -1,0 +1,8 @@
+Melezh_Street
+=>nrel_main_idtf:[Вуліца Мележа](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9827507];;
+    -> rrel_latitude: [52.4008274];;
+    <- WGS84;;
+*);
+<-concept_station;;

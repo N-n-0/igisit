@@ -1,0 +1,8 @@
+Ethical_road
+=>nrel_main_idtf:[Абʼязная дарога](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.828922];;
+    -> rrel_latitude: [52.4503122];;
+    <- WGS84;;
+*);
+<-concept_station;;

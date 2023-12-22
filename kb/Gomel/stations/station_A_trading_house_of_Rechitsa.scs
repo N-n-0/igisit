@@ -1,0 +1,8 @@
+A_trading_house_of_Rechitsa
+=>nrel_main_idtf:[Гандлёвы дом Рэчыцкі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9342851];;
+    -> rrel_latitude: [52.4093083];;
+    <- WGS84;;
+*);
+<-concept_station;;

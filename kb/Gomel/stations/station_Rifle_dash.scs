@@ -1,0 +1,8 @@
+Rifle_dash
+=>nrel_main_idtf:[Стралковы цір](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9441969];;
+    -> rrel_latitude: [52.416284];;
+    <- WGS84;;
+*);
+<-concept_station;;

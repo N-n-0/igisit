@@ -1,0 +1,8 @@
+Street_1_oncoming
+=>nrel_main_idtf:[Вуліца 1 Сустрэчная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9652919];;
+    -> rrel_latitude: [52.4270681];;
+    <- WGS84;;
+*);
+<-concept_station;;

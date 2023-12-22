@@ -1,0 +1,8 @@
+Central_outpatient_clinic
+=>nrel_main_idtf:[Цэнтральная паліклініка](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0222417];;
+    -> rrel_latitude: [52.4470536];;
+    <- WGS84;;
+*);
+<-concept_station;;

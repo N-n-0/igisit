@@ -1,0 +1,8 @@
+Malaychuk_Street
+=>nrel_main_idtf:[Вуліца Малайчука](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9922642];;
+    -> rrel_latitude: [52.457017];;
+    <- WGS84;;
+*);
+<-concept_station;;

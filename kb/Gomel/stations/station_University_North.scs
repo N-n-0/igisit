@@ -1,0 +1,8 @@
+University_North
+=>nrel_main_idtf:[Універсам Паўночны](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9642543];;
+    -> rrel_latitude: [52.4500424];;
+    <- WGS84;;
+*);
+<-concept_station;;

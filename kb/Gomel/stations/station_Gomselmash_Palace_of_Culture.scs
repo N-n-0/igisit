@@ -1,0 +1,8 @@
+Gomselmash_Palace_of_Culture
+=>nrel_main_idtf:[Палац культуры Гомсельмаша](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9695985];;
+    -> rrel_latitude: [52.4478546];;
+    <- WGS84;;
+*);
+<-concept_station;;

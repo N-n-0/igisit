@@ -1,0 +1,8 @@
+Hypermarket
+=>nrel_main_idtf:[Гіпермаркет](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9185949];;
+    -> rrel_latitude: [52.4054804];;
+    <- WGS84;;
+*);
+<-concept_station;;

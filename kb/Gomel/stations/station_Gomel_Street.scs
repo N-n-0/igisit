@@ -1,0 +1,8 @@
+Gomel_Street
+=>nrel_main_idtf:[вуліца Гомельская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9871311];;
+    -> rrel_latitude: [52.4260142];;
+    <- WGS84;;
+*);
+<-concept_station;;

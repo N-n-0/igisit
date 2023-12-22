@@ -1,0 +1,8 @@
+Ice
+=>nrel_main_idtf:[Лядовы палац](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.024524];;
+    -> rrel_latitude: [52.4590366];;
+    <- WGS84;;
+*);
+<-concept_station;;

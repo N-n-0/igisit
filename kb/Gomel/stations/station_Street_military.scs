@@ -1,0 +1,8 @@
+Street_military
+=>nrel_main_idtf:[Вуліца Вайсковая](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9307272];;
+    -> rrel_latitude: [52.424899];;
+    <- WGS84;;
+*);
+<-concept_station;;

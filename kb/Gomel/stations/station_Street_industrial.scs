@@ -1,0 +1,8 @@
+Street_industrial
+=>nrel_main_idtf:[Вуліца Прамысловая](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9024958];;
+    -> rrel_latitude: [52.4404223];;
+    <- WGS84;;
+*);
+<-concept_station;;

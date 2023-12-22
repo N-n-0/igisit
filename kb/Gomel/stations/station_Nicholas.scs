@@ -1,0 +1,8 @@
+Nicholas
+=>nrel_main_idtf:[Нікольская царква](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9853347];;
+    -> rrel_latitude: [52.4393892];;
+    <- WGS84;;
+*);
+<-concept_station;;

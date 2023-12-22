@@ -1,0 +1,8 @@
+Plant_start_up_engines
+=>nrel_main_idtf:[Завод пускавых рухавікоў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9535326];;
+    -> rrel_latitude: [52.4208967];;
+    <- WGS84;;
+*);
+<-concept_station;;

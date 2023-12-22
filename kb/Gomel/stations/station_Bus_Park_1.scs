@@ -1,0 +1,8 @@
+Bus_Park_1
+=>nrel_main_idtf:[Аўтобусны парк 1](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9633292];;
+    -> rrel_latitude: [52.4198022];;
+    <- WGS84;;
+*);
+<-concept_station;;

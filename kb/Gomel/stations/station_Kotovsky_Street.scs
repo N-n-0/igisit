@@ -1,0 +1,8 @@
+Kotovsky_Street
+=>nrel_main_idtf:[Вуліца Катоўскага](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9745117];;
+    -> rrel_latitude: [52.4278211];;
+    <- WGS84;;
+*);
+<-concept_station;;

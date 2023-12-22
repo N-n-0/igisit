@@ -1,0 +1,8 @@
+Mzzk_solar
+=>nrel_main_idtf:[МЖК Сонечны](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9142444];;
+    -> rrel_latitude: [52.4000069];;
+    <- WGS84;;
+*);
+<-concept_station;;

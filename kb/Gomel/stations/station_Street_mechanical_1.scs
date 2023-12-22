@@ -1,0 +1,8 @@
+Street_mechanical_1
+=>nrel_main_idtf:[Вуліца Механічная 1](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9904791];;
+    -> rrel_latitude: [52.495488];;
+    <- WGS84;;
+*);
+<-concept_station;;

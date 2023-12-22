@@ -1,0 +1,8 @@
+Tatiana
+=>nrel_main_idtf:[Прадпрыемства Таццяна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9621144];;
+    -> rrel_latitude: [52.4083443];;
+    <- WGS84;;
+*);
+<-concept_station;;

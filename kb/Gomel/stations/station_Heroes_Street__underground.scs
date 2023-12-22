@@ -1,0 +1,8 @@
+Heroes_Street__underground
+=>nrel_main_idtf:[Вуліца Герояў_падпольшчыкаў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9757721];;
+    -> rrel_latitude: [52.4672184];;
+    <- WGS84;;
+*);
+<-concept_station;;

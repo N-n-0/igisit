@@ -1,0 +1,8 @@
+Trading__Economics_University
+=>nrel_main_idtf:[Гандлёва_эканамічны ўніверсітэт](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9332239];;
+    -> rrel_latitude: [52.4038954];;
+    <- WGS84;;
+*);
+<-concept_station;;

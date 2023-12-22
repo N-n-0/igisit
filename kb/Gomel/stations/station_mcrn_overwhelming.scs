@@ -1,0 +1,8 @@
+mcrn_overwhelming
+=>nrel_main_idtf:[мкрн Залінейны](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9882791];;
+    -> rrel_latitude: [52.4300931];;
+    <- WGS84;;
+*);
+<-concept_station;;

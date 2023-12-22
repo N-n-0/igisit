@@ -1,0 +1,8 @@
+Karpovich_Street
+=>nrel_main_idtf:[Вуліца Карповіча](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9987301];;
+    -> rrel_latitude: [52.4290637];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Enterprise_Belshkloprom
+=>nrel_main_idtf:[Прадпрыемства Белшклопром](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0022689];;
+    -> rrel_latitude: [52.4816207];;
+    <- WGS84;;
+*);
+<-concept_station;;

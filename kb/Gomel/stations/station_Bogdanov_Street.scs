@@ -1,0 +1,8 @@
+Bogdanov_Street
+=>nrel_main_idtf:[Вуліца Багданава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9750939];;
+    -> rrel_latitude: [52.4554419];;
+    <- WGS84;;
+*);
+<-concept_station;;

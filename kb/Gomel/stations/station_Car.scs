@@ -1,0 +1,8 @@
+Car
+=>nrel_main_idtf:[Аўтадром](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8383245];;
+    -> rrel_latitude: [52.4464049];;
+    <- WGS84;;
+*);
+<-concept_station;;

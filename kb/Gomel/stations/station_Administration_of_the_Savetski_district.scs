@@ -1,0 +1,8 @@
+Administration_of_the_Savetski_district
+=>nrel_main_idtf:[Адміністрацыя Савецкага раёна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9625231];;
+    -> rrel_latitude: [52.4163891];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Street_medical
+=>nrel_main_idtf:[Вуліца Медыцынская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9049929];;
+    -> rrel_latitude: [52.3960868];;
+    <- WGS84;;
+*);
+<-concept_station;;

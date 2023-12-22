@@ -1,0 +1,8 @@
+Polesie_Street
+=>nrel_main_idtf:[Вуліца Палеская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9968176];;
+    -> rrel_latitude: [52.4382733];;
+    <- WGS84;;
+*);
+<-concept_station;;

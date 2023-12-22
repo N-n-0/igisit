@@ -1,0 +1,8 @@
+Mogilevskaya_Street
+=>nrel_main_idtf:[Вуліца Магілёўская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9334444];;
+    -> rrel_latitude: [52.4610202];;
+    <- WGS84;;
+*);
+<-concept_station;;

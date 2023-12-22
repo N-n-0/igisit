@@ -1,0 +1,8 @@
+The_Davydovsky_market
+=>nrel_main_idtf:[Рынак Давыдаўскі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9276637];;
+    -> rrel_latitude: [52.4070474];;
+    <- WGS84;;
+*);
+<-concept_station;;

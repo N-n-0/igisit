@@ -1,0 +1,8 @@
+Red_Lighthouse
+=>nrel_main_idtf:[Чырвоны Маяк](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0801235];;
+    -> rrel_latitude: [52.4254875];;
+    <- WGS84;;
+*);
+<-concept_station;;

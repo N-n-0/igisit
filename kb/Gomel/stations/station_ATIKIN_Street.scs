@@ -1,0 +1,8 @@
+ATIKIN_Street
+=>nrel_main_idtf:[Вуліца Воськіна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0467779];;
+    -> rrel_latitude: [52.3569505];;
+    <- WGS84;;
+*);
+<-concept_station;;

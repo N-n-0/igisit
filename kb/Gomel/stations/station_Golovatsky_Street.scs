@@ -1,0 +1,8 @@
+Golovatsky_Street
+=>nrel_main_idtf:[Вуліца Галавацкага](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0241585];;
+    -> rrel_latitude: [52.4519545];;
+    <- WGS84;;
+*);
+<-concept_station;;

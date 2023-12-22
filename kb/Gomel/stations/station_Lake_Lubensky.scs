@@ -1,0 +1,8 @@
+Lake_Lubensky
+=>nrel_main_idtf:[Возера Любенскае](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9890693];;
+    -> rrel_latitude: [52.4033597];;
+    <- WGS84;;
+*);
+<-concept_station;;

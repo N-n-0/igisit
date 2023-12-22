@@ -1,0 +1,8 @@
+Fedoseenko_Street
+=>nrel_main_idtf:[Вуліца Федасеенкі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9909589];;
+    -> rrel_latitude: [52.4502332];;
+    <- WGS84;;
+*);
+<-concept_station;;

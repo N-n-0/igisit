@@ -1,0 +1,8 @@
+Street_diamond
+=>nrel_main_idtf:[Вуліца Алмазная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.01784];;
+    -> rrel_latitude: [52.3605593];;
+    <- WGS84;;
+*);
+<-concept_station;;

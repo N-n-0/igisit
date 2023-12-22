@@ -1,0 +1,8 @@
+Street_Novatiarskaya
+=>nrel_main_idtf:[Вуліца Наватарская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.1028099];;
+    -> rrel_latitude: [52.4316296];;
+    <- WGS84;;
+*);
+<-concept_station;;

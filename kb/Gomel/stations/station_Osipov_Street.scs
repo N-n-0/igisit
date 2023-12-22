@@ -1,0 +1,8 @@
+Osipov_Street
+=>nrel_main_idtf:[Вуліца Осіпава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9580049];;
+    -> rrel_latitude: [52.4568514];;
+    <- WGS84;;
+*);
+<-concept_station;;

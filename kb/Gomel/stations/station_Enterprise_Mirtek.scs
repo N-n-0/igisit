@@ -1,0 +1,8 @@
+Enterprise_Mirtek
+=>nrel_main_idtf:[Прадпрыемства Міртек](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9868145];;
+    -> rrel_latitude: [52.4786247];;
+    <- WGS84;;
+*);
+<-concept_station;;

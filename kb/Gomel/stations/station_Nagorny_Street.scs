@@ -1,0 +1,8 @@
+Nagorny_Street
+=>nrel_main_idtf:[Нагорная вуліца](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0130113];;
+    -> rrel_latitude: [52.4789368];;
+    <- WGS84;;
+*);
+<-concept_station;;

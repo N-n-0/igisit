@@ -1,0 +1,8 @@
+Area_Lenin
+=>nrel_main_idtf:[Плошча Леніна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0139611];;
+    -> rrel_latitude: [52.4255748];;
+    <- WGS84;;
+*);
+<-concept_station;;

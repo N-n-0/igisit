@@ -1,0 +1,8 @@
+Holiday_thetsky_Temple
+=>nrel_main_idtf:[Свята_Траецкі храм](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9916618];;
+    -> rrel_latitude: [52.4555778];;
+    <- WGS84;;
+*);
+<-concept_station;;

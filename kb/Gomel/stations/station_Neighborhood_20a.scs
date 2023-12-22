@@ -1,0 +1,8 @@
+Neighborhood_20a
+=>nrel_main_idtf:[Мікрараён 20а](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0356693];;
+    -> rrel_latitude: [52.4702895];;
+    <- WGS84;;
+*);
+<-concept_station;;

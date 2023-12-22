@@ -1,0 +1,8 @@
+University_themF_Skorina
+=>nrel_main_idtf:[Універсітэт ім. Ф. Скарыны](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0007282];;
+    -> rrel_latitude: [52.4444294];;
+    <- WGS84;;
+*);
+<-concept_station;;

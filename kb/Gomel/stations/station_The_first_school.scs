@@ -1,0 +1,8 @@
+The_first_school
+=>nrel_main_idtf:[Першая школа](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.029693];;
+    -> rrel_latitude: [52.3708281];;
+    <- WGS84;;
+*);
+<-concept_station;;

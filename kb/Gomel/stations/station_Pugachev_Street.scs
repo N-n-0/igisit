@@ -1,0 +1,8 @@
+Pugachev_Street
+=>nrel_main_idtf:[Вуліца Пугачова](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0366463];;
+    -> rrel_latitude: [52.4080343];;
+    <- WGS84;;
+*);
+<-concept_station;;

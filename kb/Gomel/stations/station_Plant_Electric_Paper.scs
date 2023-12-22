@@ -1,0 +1,8 @@
+Plant_Electric_Paper
+=>nrel_main_idtf:[Завод Электраапаратура](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9792704];;
+    -> rrel_latitude: [52.4713336];;
+    <- WGS84;;
+*);
+<-concept_station;;

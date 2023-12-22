@@ -1,0 +1,8 @@
+Street_50_Years_of_the_Gomselmash_plant
+=>nrel_main_idtf:[Вуліца 50 год заводу Гомсельмаш](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9552115];;
+    -> rrel_latitude: [52.4483028];;
+    <- WGS84;;
+*);
+<-concept_station;;

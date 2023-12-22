@@ -1,0 +1,8 @@
+Vladimirov_Street
+=>nrel_main_idtf:[Вуліца Уладзімірава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.947147];;
+    -> rrel_latitude: [52.4303672];;
+    <- WGS84;;
+*);
+<-concept_station;;

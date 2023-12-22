@@ -1,0 +1,8 @@
+Military_enlistment_office
+=>nrel_main_idtf:[Ваенкамат](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9729565];;
+    -> rrel_latitude: [52.4206767];;
+    <- WGS84;;
+*);
+<-concept_station;;

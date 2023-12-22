@@ -1,0 +1,8 @@
+Enterprise_Comintern
+=>nrel_main_idtf:[Прадпрыемства Камінтэрн](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.008177];;
+    -> rrel_latitude: [52.4245395];;
+    <- WGS84;;
+*);
+<-concept_station;;

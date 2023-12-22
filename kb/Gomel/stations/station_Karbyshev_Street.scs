@@ -1,0 +1,8 @@
+Karbyshev_Street
+=>nrel_main_idtf:[Вуліца Карбышава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9617536];;
+    -> rrel_latitude: [52.4075337];;
+    <- WGS84;;
+*);
+<-concept_station;;

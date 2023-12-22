@@ -1,0 +1,8 @@
+KSKs_Buddham
+=>nrel_main_idtf:[Будмаркет KSK](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9214689];;
+    -> rrel_latitude: [52.4196743];;
+    <- WGS84;;
+*);
+<-concept_station;;

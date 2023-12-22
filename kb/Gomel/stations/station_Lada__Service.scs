@@ -1,0 +1,8 @@
+Lada__Service
+=>nrel_main_idtf:[Лада_сэрвіс](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0318614];;
+    -> rrel_latitude: [52.349917];;
+    <- WGS84;;
+*);
+<-concept_station;;

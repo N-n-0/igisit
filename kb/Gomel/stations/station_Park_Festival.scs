@@ -1,0 +1,8 @@
+Park_Festival
+=>nrel_main_idtf:[Парк Фестывальны](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9455582];;
+    -> rrel_latitude: [52.4106036];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Polyakova_Street
+=>nrel_main_idtf:[Вуліца Палякова](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.1101424];;
+    -> rrel_latitude: [52.4355593];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Engineering_Institute_of_the_Ministry_of_Emergency_Situations
+=>nrel_main_idtf:[Інжынерны інстытут МНС](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9404803];;
+    -> rrel_latitude: [52.4098097];;
+    <- WGS84;;
+*);
+<-concept_station;;

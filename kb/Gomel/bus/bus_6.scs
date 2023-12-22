@@ -1,0 +1,5 @@
+bus_6
+=>nrel_main_idtf:[Автобус 6](*<-lang_ru;;*);
+=>nrel_time:[Время работы в будние дни:<br> 6:46-21:08<br> Частота:<br>каждые 55 минут <br> Время работы в выходные дни:<br> 6:26-21:22<br> Частота:<br>каждые 50 минут](*  => nrel_format: format_html;;*);
+=>nrel_number_of_route: [6];
+<-concept_bus;;

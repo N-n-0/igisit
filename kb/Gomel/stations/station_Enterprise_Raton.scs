@@ -1,0 +1,8 @@
+Enterprise_Raton
+=>nrel_main_idtf:[Прадпрыемства Ратон](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9922376];;
+    -> rrel_latitude: [52.4828253];;
+    <- WGS84;;
+*);
+<-concept_station;;

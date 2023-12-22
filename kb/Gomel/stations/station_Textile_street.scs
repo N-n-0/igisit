@@ -1,0 +1,8 @@
+Textile_street
+=>nrel_main_idtf:[Тэкстыльная вуліца](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9418446];;
+    -> rrel_latitude: [52.4633643];;
+    <- WGS84;;
+*);
+<-concept_station;;

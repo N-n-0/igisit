@@ -1,0 +1,8 @@
+Yakubovka
+=>nrel_main_idtf:[Якубоўка](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0430986];;
+    -> rrel_latitude: [52.4170905];;
+    <- WGS84;;
+*);
+<-concept_station;;

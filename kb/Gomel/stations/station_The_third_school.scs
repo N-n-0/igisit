@@ -1,0 +1,8 @@
+The_third_school
+=>nrel_main_idtf:[Трэцяя школа](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.98653];;
+    -> rrel_latitude: [52.4174653];;
+    <- WGS84;;
+*);
+<-concept_station;;

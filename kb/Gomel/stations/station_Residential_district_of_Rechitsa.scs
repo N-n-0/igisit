@@ -1,0 +1,8 @@
+Residential_district_of_Rechitsa
+=>nrel_main_idtf:[Мікрараён Рэчыцкі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9258316];;
+    -> rrel_latitude: [52.4069214];;
+    <- WGS84;;
+*);
+<-concept_station;;

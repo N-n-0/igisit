@@ -1,0 +1,8 @@
+Satellite_of_peace
+=>nrel_main_idtf:[Спадарожнік міру](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.942882];;
+    -> rrel_latitude: [52.4333905];;
+    <- WGS84;;
+*);
+<-concept_station;;

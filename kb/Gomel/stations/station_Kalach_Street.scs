@@ -1,0 +1,8 @@
+Kalach_Street
+=>nrel_main_idtf:[Вуліца Калача](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.119858];;
+    -> rrel_latitude: [52.4368195];;
+    <- WGS84;;
+*);
+<-concept_station;;

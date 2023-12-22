@@ -1,0 +1,8 @@
+Leningradskaya_Street
+=>nrel_main_idtf:[Вуліца Ленінградская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0296604];;
+    -> rrel_latitude: [52.3863247];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+dYou
+=>nrel_main_idtf:[в. Заліпʼе](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8501112];;
+    -> rrel_latitude: [52.4426166];;
+    <- WGS84;;
+*);
+<-concept_station;;

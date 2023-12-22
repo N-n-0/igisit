@@ -1,0 +1,8 @@
+The_neighborhood_of_Lubensky
+=>nrel_main_idtf:[Мікрараён Любенскі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9874005];;
+    -> rrel_latitude: [52.407401];;
+    <- WGS84;;
+*);
+<-concept_station;;

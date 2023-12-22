@@ -1,0 +1,8 @@
+Friendship
+=>nrel_main_idtf:[Дружба](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0241864];;
+    -> rrel_latitude: [52.4539304];;
+    <- WGS84;;
+*);
+<-concept_station;;

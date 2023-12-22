@@ -1,0 +1,8 @@
+Road_user
+=>nrel_main_idtf:[Дарожнік](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8862854];;
+    -> rrel_latitude: [52.4302763];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Musically_Pedogical_College
+=>nrel_main_idtf:[Музычна_педагагічны каледж](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0062705];;
+    -> rrel_latitude: [52.4156664];;
+    <- WGS84;;
+*);
+<-concept_station;;

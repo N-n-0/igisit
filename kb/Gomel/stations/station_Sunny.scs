@@ -1,0 +1,8 @@
+Sunny
+=>nrel_main_idtf:[Сонечная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.908473];;
+    -> rrel_latitude: [52.4031717];;
+    <- WGS84;;
+*);
+<-concept_station;;

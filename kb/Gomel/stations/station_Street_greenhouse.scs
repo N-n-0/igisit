@@ -1,0 +1,8 @@
+Street_greenhouse
+=>nrel_main_idtf:[Вуліца Аранжарэйная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9953977];;
+    -> rrel_latitude: [52.4932442];;
+    <- WGS84;;
+*);
+<-concept_station;;

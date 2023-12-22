@@ -1,0 +1,8 @@
+Travel_Kuibyshevsky
+=>nrel_main_idtf:[Праезд Куйбышаўскі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9703862];;
+    -> rrel_latitude: [52.4185179];;
+    <- WGS84;;
+*);
+<-concept_station;;

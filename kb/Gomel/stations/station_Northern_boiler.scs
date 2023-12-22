@@ -1,0 +1,8 @@
+Northern_boiler
+=>nrel_main_idtf:[Паўночная кацельня](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9933366];;
+    -> rrel_latitude: [52.4720769];;
+    <- WGS84;;
+*);
+<-concept_station;;

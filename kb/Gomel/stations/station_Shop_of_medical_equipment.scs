@@ -1,0 +1,8 @@
+Shop_of_medical_equipment
+=>nrel_main_idtf:[Крама Медтэхніка](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9951609];;
+    -> rrel_latitude: [52.4321135];;
+    <- WGS84;;
+*);
+<-concept_station;;

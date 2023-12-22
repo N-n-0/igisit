@@ -1,0 +1,8 @@
+Lordous_Street
+=>nrel_main_idtf:[Вуліца Падлесная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0519205];;
+    -> rrel_latitude: [52.3553399];;
+    <- WGS84;;
+*);
+<-concept_station;;

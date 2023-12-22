@@ -1,0 +1,8 @@
+The_shopping_center_of_Oma
+=>nrel_main_idtf:[Гандлёвы цэнтр Ома](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9836037];;
+    -> rrel_latitude: [52.4692184];;
+    <- WGS84;;
+*);
+<-concept_station;;

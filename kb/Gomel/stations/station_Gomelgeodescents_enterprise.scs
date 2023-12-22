@@ -1,0 +1,8 @@
+Gomelgeodescents_enterprise
+=>nrel_main_idtf:[Прадпрыемства Гомельгеадэзцэнтр](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9668122];;
+    -> rrel_latitude: [52.4196761];;
+    <- WGS84;;
+*);
+<-concept_station;;

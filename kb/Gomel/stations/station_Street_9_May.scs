@@ -1,0 +1,8 @@
+Street_9_May
+=>nrel_main_idtf:[Вуліца 9 Мая](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0298119];;
+    -> rrel_latitude: [52.3768883];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+The_heat_center_2
+=>nrel_main_idtf:[Цеплаэлектрацэнтраль 2](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8195002];;
+    -> rrel_latitude: [52.45331];;
+    <- WGS84;;
+*);
+<-concept_station;;

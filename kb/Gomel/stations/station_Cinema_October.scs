@@ -1,0 +1,8 @@
+Cinema_October
+=>nrel_main_idtf:[Кінатэатр Кастрычнік](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.978217];;
+    -> rrel_latitude: [52.418256];;
+    <- WGS84;;
+*);
+<-concept_station;;

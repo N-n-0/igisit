@@ -1,0 +1,8 @@
+VIPA
+=>nrel_main_idtf:[Прадпрыемства Віпра](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9949189];;
+    -> rrel_latitude: [52.4722316];;
+    <- WGS84;;
+*);
+<-concept_station;;

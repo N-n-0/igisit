@@ -1,0 +1,8 @@
+Enterprise_Himtorg
+=>nrel_main_idtf:[Прадпрыемства Хімторг](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9341137];;
+    -> rrel_latitude: [52.4510183];;
+    <- WGS84;;
+*);
+<-concept_station;;

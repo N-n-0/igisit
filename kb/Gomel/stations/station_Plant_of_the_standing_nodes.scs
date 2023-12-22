@@ -1,0 +1,8 @@
+Plant_of_the_standing_nodes
+=>nrel_main_idtf:[Завод станочных вузлоў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9445784];;
+    -> rrel_latitude: [52.4456613];;
+    <- WGS84;;
+*);
+<-concept_station;;

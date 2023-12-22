@@ -1,0 +1,8 @@
+Plant_Gomellezobeton
+=>nrel_main_idtf:[Завод Гомельжалезабетон](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9220546];;
+    -> rrel_latitude: [52.4180079];;
+    <- WGS84;;
+*);
+<-concept_station;;

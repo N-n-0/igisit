@@ -1,0 +1,8 @@
+Peoples_Militia_Street
+=>nrel_main_idtf:[Вуліца Народнага Апалчэння](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9627324];;
+    -> rrel_latitude: [52.4641301];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Street_International
+=>nrel_main_idtf:[Вуліца Міжнародная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0289385];;
+    -> rrel_latitude: [52.3944616];;
+    <- WGS84;;
+*);
+<-concept_station;;

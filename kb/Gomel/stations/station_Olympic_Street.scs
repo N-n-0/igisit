@@ -1,0 +1,8 @@
+Olympic_Street
+=>nrel_main_idtf:[Вуліца Алімпійская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0289935];;
+    -> rrel_latitude: [52.477457];;
+    <- WGS84;;
+*);
+<-concept_station;;

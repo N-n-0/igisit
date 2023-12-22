@@ -1,0 +1,8 @@
+BelDUT
+=>nrel_main_idtf:[БелДУТ](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0010143];;
+    -> rrel_latitude: [52.4337546];;
+    <- WGS84;;
+*);
+<-concept_station;;

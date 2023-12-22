@@ -1,0 +1,8 @@
+Rotate_on_Hima
+=>nrel_main_idtf:[Паварот на Хімы](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0313728];;
+    -> rrel_latitude: [52.3542765];;
+    <- WGS84;;
+*);
+<-concept_station;;

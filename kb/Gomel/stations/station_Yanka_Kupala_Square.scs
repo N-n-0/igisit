@@ -1,0 +1,8 @@
+Yanka_Kupala_Square
+=>nrel_main_idtf:[Сквер імя Янкі Купалы](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9517466];;
+    -> rrel_latitude: [52.4126345];;
+    <- WGS84;;
+*);
+<-concept_station;;

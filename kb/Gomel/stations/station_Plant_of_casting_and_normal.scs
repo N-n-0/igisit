@@ -1,0 +1,8 @@
+Plant_of_casting_and_normal
+=>nrel_main_idtf:[Завод ліцця і нармаляў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9178857];;
+    -> rrel_latitude: [52.4560477];;
+    <- WGS84;;
+*);
+<-concept_station;;

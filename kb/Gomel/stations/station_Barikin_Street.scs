@@ -1,0 +1,8 @@
+Barikin_Street
+=>nrel_main_idtf:[Вуліца Барыкіна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9972194];;
+    -> rrel_latitude: [52.4167442];;
+    <- WGS84;;
+*);
+<-concept_station;;

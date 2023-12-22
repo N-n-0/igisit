@@ -1,0 +1,8 @@
+Plant_of_chemical_products
+=>nrel_main_idtf:[Завод хімічных вырабаў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0298876];;
+    -> rrel_latitude: [52.361967];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Yaroslavskaya_Street
+=>nrel_main_idtf:[Вуліца Яраслаўская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9774289];;
+    -> rrel_latitude: [52.4386013];;
+    <- WGS84;;
+*);
+<-concept_station;;

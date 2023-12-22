@@ -1,0 +1,8 @@
+Petrus_Brovka_Street
+=>nrel_main_idtf:[Вуліца Петруся Броўкі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0288191];;
+    -> rrel_latitude: [52.4682165];;
+    <- WGS84;;
+*);
+<-concept_station;;

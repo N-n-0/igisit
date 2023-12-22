@@ -1,0 +1,8 @@
+Victory_Avenue
+=>nrel_main_idtf:[Праспект Перамогі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0029311];;
+    -> rrel_latitude: [52.4351226];;
+    <- WGS84;;
+*);
+<-concept_station;;

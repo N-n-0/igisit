@@ -1,0 +1,8 @@
+Denisenko_Street
+=>nrel_main_idtf:[Вуліца Дзенісенка](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9663597];;
+    -> rrel_latitude: [52.3963912];;
+    <- WGS84;;
+*);
+<-concept_station;;

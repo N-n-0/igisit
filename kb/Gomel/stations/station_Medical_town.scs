@@ -1,0 +1,8 @@
+Medical_town
+=>nrel_main_idtf:[Медгарадок](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8995169];;
+    -> rrel_latitude: [52.3951015];;
+    <- WGS84;;
+*);
+<-concept_station;;

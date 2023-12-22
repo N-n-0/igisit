@@ -1,0 +1,8 @@
+Enterprise_Gomelvodokanal
+=>nrel_main_idtf:[Прадпрыемства Гомельводаканал](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9962486];;
+    -> rrel_latitude: [52.4596537];;
+    <- WGS84;;
+*);
+<-concept_station;;

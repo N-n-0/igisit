@@ -1,0 +1,8 @@
+Gomel_department_store
+=>nrel_main_idtf:[Універмаг Гомель](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0047305];;
+    -> rrel_latitude: [52.4394889];;
+    <- WGS84;;
+*);
+<-concept_station;;

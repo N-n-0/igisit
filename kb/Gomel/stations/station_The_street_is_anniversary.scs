@@ -1,0 +1,8 @@
+The_street_is_anniversary
+=>nrel_main_idtf:[Вуліца Юбілейная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.999946];;
+    -> rrel_latitude: [52.4601603];;
+    <- WGS84;;
+*);
+<-concept_station;;

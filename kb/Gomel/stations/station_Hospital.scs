@@ -1,0 +1,8 @@
+Hospital
+=>nrel_main_idtf:[Шпіталь](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0391322];;
+    -> rrel_latitude: [52.3539194];;
+    <- WGS84;;
+*);
+<-concept_station;;

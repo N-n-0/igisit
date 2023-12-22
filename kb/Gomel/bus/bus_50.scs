@@ -1,0 +1,6 @@
+bus_50
+=>nrel_main_idtf:[Автобус 50](*<-lang_ru;;*);
+=>nrel_time:[](*  => nrel_format: format_html;;*);
+=>nrel_number_of_route: [50];
+<-concept_bus;;
+

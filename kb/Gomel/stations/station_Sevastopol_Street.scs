@@ -1,0 +1,8 @@
+Sevastopol_Street
+=>nrel_main_idtf:[Вуліца Севастопальская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0049387];;
+    -> rrel_latitude: [52.3730952];;
+    <- WGS84;;
+*);
+<-concept_station;;

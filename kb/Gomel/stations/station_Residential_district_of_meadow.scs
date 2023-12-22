@@ -1,0 +1,8 @@
+Residential_district_of_meadow
+=>nrel_main_idtf:[Мікрараён Мельнікаў Луг](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0186663];;
+    -> rrel_latitude: [52.4440696];;
+    <- WGS84;;
+*);
+<-concept_station;;

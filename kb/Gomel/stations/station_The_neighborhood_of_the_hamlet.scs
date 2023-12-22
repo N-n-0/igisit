@@ -1,0 +1,8 @@
+The_neighborhood_of_the_hamlet
+=>nrel_main_idtf:[Мікрараён Хутар](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0136455];;
+    -> rrel_latitude: [52.3578695];;
+    <- WGS84;;
+*);
+<-concept_station;;

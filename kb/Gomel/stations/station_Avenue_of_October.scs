@@ -1,0 +1,8 @@
+Avenue_of_October
+=>nrel_main_idtf:[Праспект Кастрычніка](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9691811];;
+    -> rrel_latitude: [52.4108789];;
+    <- WGS84;;
+*);
+<-concept_station;;

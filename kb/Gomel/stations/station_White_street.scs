@@ -1,0 +1,8 @@
+White_street
+=>nrel_main_idtf:[Вуліца Белага](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0185556];;
+    -> rrel_latitude: [52.3664055];;
+    <- WGS84;;
+*);
+<-concept_station;;

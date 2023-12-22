@@ -1,0 +1,8 @@
+Manevich_Street
+=>nrel_main_idtf:[Вуліца Маневіча](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9703496];;
+    -> rrel_latitude: [52.4700878];;
+    <- WGS84;;
+*);
+<-concept_station;;

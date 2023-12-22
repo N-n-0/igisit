@@ -1,0 +1,8 @@
+Magazine
+=>nrel_main_idtf:[Магазін](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0121031];;
+    -> rrel_latitude: [52.3690511];;
+    <- WGS84;;
+*);
+<-concept_station;;

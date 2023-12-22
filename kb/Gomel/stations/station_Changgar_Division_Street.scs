@@ -1,0 +1,8 @@
+Changgar_Division_Street
+=>nrel_main_idtf:[Вуліца Чангарскай Дывізіі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9861852];;
+    -> rrel_latitude: [52.4625721];;
+    <- WGS84;;
+*);
+<-concept_station;;

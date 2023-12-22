@@ -1,0 +1,8 @@
+Kosarova_Street
+=>nrel_main_idtf:[Вуліца Косарава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9197306];;
+    -> rrel_latitude: [52.4047192];;
+    <- WGS84;;
+*);
+<-concept_station;;

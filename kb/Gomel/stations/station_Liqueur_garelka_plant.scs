@@ -1,0 +1,8 @@
+Liqueur_garelka_plant
+=>nrel_main_idtf:[Лікёра_гарэлкавы завод](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0242292];;
+    -> rrel_latitude: [52.3843226];;
+    <- WGS84;;
+*);
+<-concept_station;;

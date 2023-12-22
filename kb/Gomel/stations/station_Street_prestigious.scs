@@ -1,0 +1,8 @@
+Street_prestigious
+=>nrel_main_idtf:[Вуліца Прэстыжная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0806876];;
+    -> rrel_latitude: [52.434239];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Fadeev_Street
+=>nrel_main_idtf:[Вуліца Фадзеева](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9650456];;
+    -> rrel_latitude: [52.4607094];;
+    <- WGS84;;
+*);
+<-concept_station;;

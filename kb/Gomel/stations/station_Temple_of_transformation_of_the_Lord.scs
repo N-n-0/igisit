@@ -1,0 +1,8 @@
+Temple_of_transformation_of_the_Lord
+=>nrel_main_idtf:[Храм Ператварэння Гасподня](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0293489];;
+    -> rrel_latitude: [52.4658513];;
+    <- WGS84;;
+*);
+<-concept_station;;

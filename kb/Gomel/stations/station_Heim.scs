@@ -1,0 +1,8 @@
+Heim
+=>nrel_main_idtf:[Хімы](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0470306];;
+    -> rrel_latitude: [52.3553057];;
+    <- WGS84;;
+*);
+<-concept_station;;

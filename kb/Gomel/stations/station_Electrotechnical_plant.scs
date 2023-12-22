@@ -1,0 +1,8 @@
+Electrotechnical_plant
+=>nrel_main_idtf:[Электратэхнічны завод](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9761004];;
+    -> rrel_latitude: [52.4401262];;
+    <- WGS84;;
+*);
+<-concept_station;;

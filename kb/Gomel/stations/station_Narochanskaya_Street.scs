@@ -1,0 +1,8 @@
+Narochanskaya_Street
+=>nrel_main_idtf:[Вуліца Нарачанская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.1332979];;
+    -> rrel_latitude: [52.439012];;
+    <- WGS84;;
+*);
+<-concept_station;;

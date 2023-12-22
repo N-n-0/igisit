@@ -1,0 +1,8 @@
+Neighborhood_21
+=>nrel_main_idtf:[Мікрараён 21](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0430206];;
+    -> rrel_latitude: [52.4696538];;
+    <- WGS84;;
+*);
+<-concept_station;;

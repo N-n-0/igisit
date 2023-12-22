@@ -1,0 +1,8 @@
+Shop_a_thousand_little_things
+=>nrel_main_idtf:[Магазін Тысяча дробязяў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9526656];;
+    -> rrel_latitude: [52.445978];;
+    <- WGS84;;
+*);
+<-concept_station;;

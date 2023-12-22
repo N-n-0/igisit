@@ -1,0 +1,8 @@
+Enterprise_Harelektransport
+=>nrel_main_idtf:[Прадпрыемства Гарэлектратранспарт](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9840164];;
+    -> rrel_latitude: [52.4652684];;
+    <- WGS84;;
+*);
+<-concept_station;;

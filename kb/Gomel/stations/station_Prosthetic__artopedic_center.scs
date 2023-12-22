@@ -1,0 +1,8 @@
+Prosthetic__artopedic_center
+=>nrel_main_idtf:[Пратэзна_артапедычны цэнтр](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9494756];;
+    -> rrel_latitude: [52.4326162];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Boris_Tsarikov_Street
+=>nrel_main_idtf:[Вуліца Барыса Царыкава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9615705];;
+    -> rrel_latitude: [52.446483];;
+    <- WGS84;;
+*);
+<-concept_station;;

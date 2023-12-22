@@ -1,0 +1,8 @@
+Checherskaya_Street
+=>nrel_main_idtf:[Вуліца Чачэрская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0353082];;
+    -> rrel_latitude: [52.4631633];;
+    <- WGS84;;
+*);
+<-concept_station;;

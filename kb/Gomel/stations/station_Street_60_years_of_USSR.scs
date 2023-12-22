@@ -1,0 +1,8 @@
+Street_60_years_of_USSR
+=>nrel_main_idtf:[Вуліца 60 гадоў СССР](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9812795];;
+    -> rrel_latitude: [52.4059677];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Gelman_Street
+=>nrel_main_idtf:[Вуліца Гельман](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9529589];;
+    -> rrel_latitude: [52.3959299];;
+    <- WGS84;;
+*);
+<-concept_station;;

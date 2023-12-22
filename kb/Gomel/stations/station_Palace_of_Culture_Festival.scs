@@ -1,0 +1,8 @@
+Palace_of_Culture_Festival
+=>nrel_main_idtf:[Палац культуры Фестывальны](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.953172];;
+    -> rrel_latitude: [52.4129898];;
+    <- WGS84;;
+*);
+<-concept_station;;

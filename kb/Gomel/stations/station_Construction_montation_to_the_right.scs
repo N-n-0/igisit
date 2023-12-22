@@ -1,0 +1,8 @@
+Construction_montation_to_the_right
+=>nrel_main_idtf:[Будаўніча_мантажная управа Гомельэнергабуд](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.821296];;
+    -> rrel_latitude: [52.4476925];;
+    <- WGS84;;
+*);
+<-concept_station;;

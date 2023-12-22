@@ -1,0 +1,8 @@
+Youth
+=>nrel_main_idtf:[Маладзёжная](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9533389];;
+    -> rrel_latitude: [52.4587295];;
+    <- WGS84;;
+*);
+<-concept_station;;

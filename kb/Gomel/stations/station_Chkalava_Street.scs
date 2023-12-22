@@ -1,0 +1,8 @@
+Chkalava_Street
+=>nrel_main_idtf:[Вуліца Чкалава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9723778];;
+    -> rrel_latitude: [52.4179378];;
+    <- WGS84;;
+*);
+<-concept_station;;

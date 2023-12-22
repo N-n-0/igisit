@@ -1,0 +1,8 @@
+Lane_Babushkin
+=>nrel_main_idtf:[Завулак Бабушкіна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0430672];;
+    -> rrel_latitude: [52.4061044];;
+    <- WGS84;;
+*);
+<-concept_station;;

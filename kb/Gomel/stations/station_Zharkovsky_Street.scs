@@ -1,0 +1,8 @@
+Zharkovsky_Street
+=>nrel_main_idtf:[Вуліца Жаркоўскага](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0107118];;
+    -> rrel_latitude: [52.4310453];;
+    <- WGS84;;
+*);
+<-concept_station;;

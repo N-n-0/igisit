@@ -1,0 +1,8 @@
+Chestnut
+=>nrel_main_idtf:[Прадпрыемства Каштан](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9955469];;
+    -> rrel_latitude: [52.4862194];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Zaitsev_Street
+=>nrel_main_idtf:[Вуліца Зайцава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0132952];;
+    -> rrel_latitude: [52.3695676];;
+    <- WGS84;;
+*);
+<-concept_station;;

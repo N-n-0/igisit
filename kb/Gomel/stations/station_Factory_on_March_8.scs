@@ -1,0 +1,8 @@
+Factory_on_March_8
+=>nrel_main_idtf:[Фабрыка 8 Сакавіка](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0061319];;
+    -> rrel_latitude: [52.4352052];;
+    <- WGS84;;
+*);
+<-concept_station;;

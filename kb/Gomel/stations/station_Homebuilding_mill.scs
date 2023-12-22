@@ -1,0 +1,8 @@
+Homebuilding_mill
+=>nrel_main_idtf:[Домабудаўнічы камбінат](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8998829];;
+    -> rrel_latitude: [52.4112887];;
+    <- WGS84;;
+*);
+<-concept_station;;

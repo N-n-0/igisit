@@ -1,0 +1,8 @@
+New_life
+=>nrel_main_idtf:[Новае Жыццё](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9696716];;
+    -> rrel_latitude: [52.4984989];;
+    <- WGS84;;
+*);
+<-concept_station;;

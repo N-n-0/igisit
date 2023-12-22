@@ -1,0 +1,8 @@
+Enterprise_Enterprise
+=>nrel_main_idtf:[Прадпрыемства Электрасеткі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9073355];;
+    -> rrel_latitude: [52.4271023];;
+    <- WGS84;;
+*);
+<-concept_station;;

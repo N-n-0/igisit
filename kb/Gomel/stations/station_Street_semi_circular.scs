@@ -1,0 +1,8 @@
+Street_semi_circular
+=>nrel_main_idtf:[Вуліца Паўкруглая](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.937905];;
+    -> rrel_latitude: [52.4431803];;
+    <- WGS84;;
+*);
+<-concept_station;;

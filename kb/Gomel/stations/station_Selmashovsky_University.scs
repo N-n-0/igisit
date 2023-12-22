@@ -1,0 +1,8 @@
+Selmashovsky_University
+=>nrel_main_idtf:[Універсам Сельмашаўскі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9723674];;
+    -> rrel_latitude: [52.4504754];;
+    <- WGS84;;
+*);
+<-concept_station;;

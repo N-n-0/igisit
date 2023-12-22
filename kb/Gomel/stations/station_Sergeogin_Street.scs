@@ -1,0 +1,8 @@
+Sergeogin_Street
+=>nrel_main_idtf:[Вуліца Сярогіна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.959072];;
+    -> rrel_latitude: [52.3985656];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Rogachevskaya_Street
+=>nrel_main_idtf:[Вуліца Рагачоўская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0035803];;
+    -> rrel_latitude: [52.4383857];;
+    <- WGS84;;
+*);
+<-concept_station;;

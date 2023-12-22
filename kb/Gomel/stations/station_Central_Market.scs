@@ -1,0 +1,8 @@
+Central_Market
+=>nrel_main_idtf:[Цэнтральны рынак (Маршруткі)](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9970686];;
+    -> rrel_latitude: [52.4270225];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Rotate_on_the_heat_center_2
+=>nrel_main_idtf:[Паварот на цеплаэлектрацэнтраль 2](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8215723];;
+    -> rrel_latitude: [52.4546858];;
+    <- WGS84;;
+*);
+<-concept_station;;

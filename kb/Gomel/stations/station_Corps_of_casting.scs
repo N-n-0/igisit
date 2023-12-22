@@ -1,0 +1,8 @@
+Corps_of_casting
+=>nrel_main_idtf:[Корпус ліцця](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9127346];;
+    -> rrel_latitude: [52.4541967];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Kostyukov_Lyceum
+=>nrel_main_idtf:[Касцюкоўскі ліцэй](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9051285];;
+    -> rrel_latitude: [52.5481251];;
+    <- WGS84;;
+*);
+<-concept_station;;

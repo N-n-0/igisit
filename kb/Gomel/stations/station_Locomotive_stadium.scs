@@ -1,0 +1,8 @@
+Locomotive_stadium
+=>nrel_main_idtf:[Стадыён Лакаматыў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9756478];;
+    -> rrel_latitude: [52.4325111];;
+    <- WGS84;;
+*);
+<-concept_station;;

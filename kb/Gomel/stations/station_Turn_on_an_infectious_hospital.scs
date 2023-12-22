@@ -1,0 +1,8 @@
+Turn_on_an_infectious_hospital
+=>nrel_main_idtf:[Паварот на інфекцыйную бальніцу](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9829847];;
+    -> rrel_latitude: [52.4830789];;
+    <- WGS84;;
+*);
+<-concept_station;;

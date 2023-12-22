@@ -1,0 +1,8 @@
+Street_pine
+=>nrel_main_idtf:[Вуліца Сасновая](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9442518];;
+    -> rrel_latitude: [52.4229804];;
+    <- WGS84;;
+*);
+<-concept_station;;

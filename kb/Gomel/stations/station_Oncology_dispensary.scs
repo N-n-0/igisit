@@ -1,0 +1,8 @@
+Oncology_dispensary
+=>nrel_main_idtf:[Анкалагічны дыспансер](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9106543];;
+    -> rrel_latitude: [52.3959703];;
+    <- WGS84;;
+*);
+<-concept_station;;

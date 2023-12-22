@@ -1,0 +1,8 @@
+The_Lower_Brillevskaya_Street
+=>nrel_main_idtf:[Вуліца Ніжнебрылёўская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9406489];;
+    -> rrel_latitude: [52.4582534];;
+    <- WGS84;;
+*);
+<-concept_station;;

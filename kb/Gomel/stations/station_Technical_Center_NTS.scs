@@ -1,0 +1,8 @@
+Technical_Center_NTS
+=>nrel_main_idtf:[Тэхнічны цэнтр НТС](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.011753];;
+    -> rrel_latitude: [52.477427];;
+    <- WGS84;;
+*);
+<-concept_station;;

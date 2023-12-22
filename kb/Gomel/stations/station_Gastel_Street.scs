@@ -1,0 +1,8 @@
+Gastel_Street
+=>nrel_main_idtf:[Вуліца Гастэлы](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9618547];;
+    -> rrel_latitude: [52.4679529];;
+    <- WGS84;;
+*);
+<-concept_station;;

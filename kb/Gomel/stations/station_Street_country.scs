@@ -1,0 +1,8 @@
+Street_country
+=>nrel_main_idtf:[Вуліца Прасёлкавая](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9168953];;
+    -> rrel_latitude: [52.442577];;
+    <- WGS84;;
+*);
+<-concept_station;;

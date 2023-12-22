@@ -1,0 +1,8 @@
+Borodina_Street
+=>nrel_main_idtf:[Вуліца Барадзіна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0357506];;
+    -> rrel_latitude: [52.4592521];;
+    <- WGS84;;
+*);
+<-concept_station;;

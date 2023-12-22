@@ -1,0 +1,8 @@
+Plant_coral
+=>nrel_main_idtf:[Завод Карал](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.998868];;
+    -> rrel_latitude: [52.4770543];;
+    <- WGS84;;
+*);
+<-concept_station;;

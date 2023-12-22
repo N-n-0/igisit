@@ -1,0 +1,8 @@
+Enterprise_Saleo_gomel
+=>nrel_main_idtf:[Прадпрыемства Салео_Гомель](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9824404];;
+    -> rrel_latitude: [52.4755957];;
+    <- WGS84;;
+*);
+<-concept_station;;

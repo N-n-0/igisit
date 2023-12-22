@@ -1,0 +1,8 @@
+Enterprise_Red_Carnation
+=>nrel_main_idtf:[Прадпрыемства Чырвоны гваздзік](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9711192];;
+    -> rrel_latitude: [52.4894486];;
+    <- WGS84;;
+*);
+<-concept_station;;

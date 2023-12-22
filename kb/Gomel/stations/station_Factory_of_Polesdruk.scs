@@ -1,0 +1,8 @@
+Factory_of_Polesdruk
+=>nrel_main_idtf:[Фабрыка Палесдрук](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0013038];;
+    -> rrel_latitude: [52.4731678];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Shopping_center
+=>nrel_main_idtf:[Гандлёвы цэнтр](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0020915];;
+    -> rrel_latitude: [52.4574543];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Turovskaya_Street
+=>nrel_main_idtf:[Вуліца Тураўская](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.1383116];;
+    -> rrel_latitude: [52.4406101];;
+    <- WGS84;;
+*);
+<-concept_station;;

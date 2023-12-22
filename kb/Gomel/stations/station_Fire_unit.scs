@@ -1,0 +1,8 @@
+Fire_unit
+=>nrel_main_idtf:[Пажарная часць](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9616729];;
+    -> rrel_latitude: [52.4567636];;
+    <- WGS84;;
+*);
+<-concept_station;;

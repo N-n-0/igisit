@@ -1,0 +1,8 @@
+Mechanical_Engineering_College
+=>nrel_main_idtf:[Машынабудаўнічы каледж](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9048062];;
+    -> rrel_latitude: [52.4054631];;
+    <- WGS84;;
+*);
+<-concept_station;;

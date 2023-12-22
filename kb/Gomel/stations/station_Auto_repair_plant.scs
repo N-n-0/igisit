@@ -1,0 +1,8 @@
+Auto_repair_plant
+=>nrel_main_idtf:[Аўтарамонтны завод](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9938198];;
+    -> rrel_latitude: [52.4462361];;
+    <- WGS84;;
+*);
+<-concept_station;;

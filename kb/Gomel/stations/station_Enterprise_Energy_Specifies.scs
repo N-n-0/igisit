@@ -1,0 +1,8 @@
+Enterprise_Energy_Specifies
+=>nrel_main_idtf:[Прадпрыемства Энергасбыт](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9054673];;
+    -> rrel_latitude: [52.4273809];;
+    <- WGS84;;
+*);
+<-concept_station;;

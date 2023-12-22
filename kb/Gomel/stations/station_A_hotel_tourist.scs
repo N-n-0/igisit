@@ -1,0 +1,8 @@
+A_hotel_tourist
+=>nrel_main_idtf:[Гасцініца Турыст](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9983673];;
+    -> rrel_latitude: [52.4474627];;
+    <- WGS84;;
+*);
+<-concept_station;;

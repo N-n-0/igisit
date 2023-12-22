@@ -1,0 +1,8 @@
+Furniture_Factory_Progress
+=>nrel_main_idtf:[Мэблевая фабрыка Прагрэс](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.96229];;
+    -> rrel_latitude: [52.4201183];;
+    <- WGS84;;
+*);
+<-concept_station;;

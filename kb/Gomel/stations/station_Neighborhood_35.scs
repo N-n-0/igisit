@@ -1,0 +1,8 @@
+Neighborhood_35
+=>nrel_main_idtf:[Мікрараён 35](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0296983];;
+    -> rrel_latitude: [52.3827722];;
+    <- WGS84;;
+*);
+<-concept_station;;

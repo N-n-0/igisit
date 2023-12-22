@@ -1,0 +1,8 @@
+Kamenchikova_Street
+=>nrel_main_idtf:[Вуліца Каменшчыкава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.009799];;
+    -> rrel_latitude: [52.4727333];;
+    <- WGS84;;
+*);
+<-concept_station;;

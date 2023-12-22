@@ -1,0 +1,8 @@
+Shop_ocean
+=>nrel_main_idtf:[Крама Акіян](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0023154];;
+    -> rrel_latitude: [52.4516481];;
+    <- WGS84;;
+*);
+<-concept_station;;

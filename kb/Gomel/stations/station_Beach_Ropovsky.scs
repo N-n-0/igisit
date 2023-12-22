@@ -1,0 +1,8 @@
+Beach_Ropovsky
+=>nrel_main_idtf:[Пляж Ропаўскі](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.993107];;
+    -> rrel_latitude: [52.3947888];;
+    <- WGS84;;
+*);
+<-concept_station;;

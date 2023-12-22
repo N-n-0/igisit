@@ -1,0 +1,8 @@
+Neighborhood_southern
+=>nrel_main_idtf:[Мікрараён Паўднёвы](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0562346];;
+    -> rrel_latitude: [52.3501545];;
+    <- WGS84;;
+*);
+<-concept_station;;

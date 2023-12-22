@@ -1,0 +1,8 @@
+Chernyshevsky_Street
+=>nrel_main_idtf:[Вуліца Чарнышэўскага](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9331669];;
+    -> rrel_latitude: [52.4402568];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+Wit
+=>nrel_main_idtf:[Прыбар](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.7537553];;
+    -> rrel_latitude: [52.405419];;
+    <- WGS84;;
+*);
+<-concept_station;;

@@ -1,0 +1,8 @@
+School_54
+=>nrel_main_idtf:[Школа 54](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0235186];;
+    -> rrel_latitude: [52.479969];;
+    <- WGS84;;
+*);
+<-concept_station;;

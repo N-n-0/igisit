@@ -1,0 +1,8 @@
+Plant_self_propelled_combines
+=>nrel_main_idtf:[Завод самаходных камбайнаў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9697033];;
+    -> rrel_latitude: [52.4630431];;
+    <- WGS84;;
+*);
+<-concept_station;;

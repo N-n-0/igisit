@@ -1,0 +1,8 @@
+Circus
+=>nrel_main_idtf:[Цырк](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0081837];;
+    -> rrel_latitude: [52.434656];;
+    <- WGS84;;
+*);
+<-concept_station;;

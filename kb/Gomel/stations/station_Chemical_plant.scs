@@ -1,0 +1,8 @@
+Chemical_plant
+=>nrel_main_idtf:[Хімзавод](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.8661678];;
+    -> rrel_latitude: [52.4376038];;
+    <- WGS84;;
+*);
+<-concept_station;;

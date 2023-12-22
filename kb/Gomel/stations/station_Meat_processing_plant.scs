@@ -1,0 +1,8 @@
+Meat_processing_plant
+=>nrel_main_idtf:[Мясакамбінат](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0221819];;
+    -> rrel_latitude: [52.4003891];;
+    <- WGS84;;
+*);
+<-concept_station;;

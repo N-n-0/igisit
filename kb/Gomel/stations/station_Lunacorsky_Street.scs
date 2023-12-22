@@ -1,0 +1,8 @@
+Lunacorsky_Street
+=>nrel_main_idtf:[Вуліца Луначарскага](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0280138];;
+    -> rrel_latitude: [52.4036069];;
+    <- WGS84;;
+*);
+<-concept_station;;

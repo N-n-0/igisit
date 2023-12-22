@@ -1,0 +1,8 @@
+Gomeldrev_enterprise
+=>nrel_main_idtf:[Прадпрыемства Гомельдрэў](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0260771];;
+    -> rrel_latitude: [52.3858264];;
+    <- WGS84;;
+*);
+<-concept_station;;

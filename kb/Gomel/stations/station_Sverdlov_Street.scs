@@ -1,0 +1,8 @@
+Sverdlov_Street
+=>nrel_main_idtf:[Вуліца Свярдлова](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0458573];;
+    -> rrel_latitude: [52.4049935];;
+    <- WGS84;;
+*);
+<-concept_station;;

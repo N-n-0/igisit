@@ -1,0 +1,8 @@
+Bakunin_Street
+=>nrel_main_idtf:[Вуліца Бакуніна](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9738716];;
+    -> rrel_latitude: [52.42436];;
+    <- WGS84;;
+*);
+<-concept_station;;

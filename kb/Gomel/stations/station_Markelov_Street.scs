@@ -1,0 +1,8 @@
+Markelov_Street
+=>nrel_main_idtf:[Вуліца Маркелава](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.1265509];;
+    -> rrel_latitude: [52.4369406];;
+    <- WGS84;;
+*);
+<-concept_station;;

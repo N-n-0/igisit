@@ -1,0 +1,8 @@
+A_construction_company
+=>nrel_main_idtf:[Будаўнічае прадпрыемства](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9133257];;
+    -> rrel_latitude: [52.4468351];;
+    <- WGS84;;
+*);
+<-concept_station;;

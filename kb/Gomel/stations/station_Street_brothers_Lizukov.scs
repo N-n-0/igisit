@@ -1,0 +1,8 @@
+Street_brothers_Lizukov
+=>nrel_main_idtf:[Вуліца Братоў Лізюковых](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9458588];;
+    -> rrel_latitude: [52.4025177];;
+    <- WGS84;;
+*);
+<-concept_station;;

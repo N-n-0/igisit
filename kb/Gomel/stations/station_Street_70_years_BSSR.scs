@@ -1,0 +1,8 @@
+Street_70_years_BSSR
+=>nrel_main_idtf:[Вуліца 70 гадоў БССР](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [30.9173136];;
+    -> rrel_latitude: [52.4018701];;
+    <- WGS84;;
+*);
+<-concept_station;;

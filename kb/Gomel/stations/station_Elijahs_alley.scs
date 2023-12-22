@@ -1,0 +1,8 @@
+Elijahs_alley
+=>nrel_main_idtf:[Завулак Ілліча](*<-lang_ru;;*);
+=> nrel_geoposition: ... (*
+    -> rrel_longitude: [31.0213418];;
+    -> rrel_latitude: [52.3698902];;
+    <- WGS84;;
+*);
+<-concept_station;;
